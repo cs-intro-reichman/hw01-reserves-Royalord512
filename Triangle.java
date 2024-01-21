@@ -17,8 +17,8 @@ public class Triangle {
 
 		boolean triangle = min + middle > max;
 
-		System.out.println(min + ", " + middle + ", " +	
-						   max + ": " + triangle);
+		System.out.println(a + ", " + b + ", " +	
+						   c + ": " + triangle);
 
 	}
 }
